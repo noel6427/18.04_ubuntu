@@ -1,0 +1,4 @@
+Symlinking /home/jiwoo/catkin_ws/devel/lib/launchgui/launchgui
+Symlinking /home/jiwoo/catkin_ws/devel/lib/pkgconfig/launchgui.pc
+Symlinking /home/jiwoo/catkin_ws/devel/share/launchgui/cmake/launchguiConfig.cmake
+Symlinking /home/jiwoo/catkin_ws/devel/share/launchgui/cmake/launchguiConfig-version.cmake

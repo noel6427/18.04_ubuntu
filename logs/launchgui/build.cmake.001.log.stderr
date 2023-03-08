@@ -1,0 +1,5 @@
+qmake: could not find a Qt installation of ''
+[31m[1mCMake Error[0m at /home/jiwoo/catkin_ws/src/launchgui/CMakeLists.txt:36 (QT4_ADD_RESOURCES):
+  Unknown CMake command "QT4_ADD_RESOURCES".
+
+

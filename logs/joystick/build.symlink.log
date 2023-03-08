@@ -1,0 +1,4 @@
+Symlinking /home/jiwoo/catkin_ws/devel/lib/pkgconfig/joystick.pc
+Symlinking /home/jiwoo/catkin_ws/devel/lib/joystick/joystick_node
+Symlinking /home/jiwoo/catkin_ws/devel/share/joystick/cmake/joystickConfig.cmake
+Symlinking /home/jiwoo/catkin_ws/devel/share/joystick/cmake/joystickConfig-version.cmake

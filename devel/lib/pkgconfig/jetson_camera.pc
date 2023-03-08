@@ -1,0 +1,1 @@
+/home/jiwoo/catkin_ws/devel/.private/jetson_camera/lib/pkgconfig/jetson_camera.pc

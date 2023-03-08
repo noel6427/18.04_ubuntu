@@ -1,0 +1,8 @@
+prefix=/home/jiwoo/catkin_ws/devel/.private/KUDOS_12_test
+
+Name: KUDOS_12_test
+Description: Description of KUDOS_12_test
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib -lKUDOS_12_test
+Requires: roscpp std_msgs

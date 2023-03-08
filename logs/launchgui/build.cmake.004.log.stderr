@@ -1,0 +1,15 @@
+[33m[1mCMake Warning[0m at /usr/share/cmake-3.10/Modules/FindQt4.cmake:620 (message):
+  /usr/bin/qmake-qt4 reported QT_INSTALL_LIBS as "/usr/lib/x86_64-linux-gnu"
+  but QtCore could not be found there.  Qt is NOT installed correctly for the
+  target build environment.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/melodic/share/qt_build/cmake/qt-ros.cmake:65 (find_package)
+  CMakeLists.txt:26 (rosbuild_prepare_qt4)
+
+
+Qt QTGUI library not found.
+Qt QTCORE library not found.
+[31m[1mCMake Error[0m at /home/jiwoo/catkin_ws/src/launchgui/CMakeLists.txt:36 (QT4_ADD_RESOURCES):
+  Unknown CMake command "QT4_ADD_RESOURCES".
+
+

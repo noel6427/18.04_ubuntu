@@ -1,0 +1,4 @@
+Symlinking /home/jiwoo/catkin_ws/devel/lib/pkgconfig/ex.pc
+Symlinking /home/jiwoo/catkin_ws/devel/lib/ex/ex_node
+Symlinking /home/jiwoo/catkin_ws/devel/share/ex/cmake/exConfig-version.cmake
+Symlinking /home/jiwoo/catkin_ws/devel/share/ex/cmake/exConfig.cmake

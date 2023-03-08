@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorProject>
+<!-- Written by QtCreator 4.9.2, 2023-02-15T17:04:09. -->
+<qtcreator>
+ <data>
+  <variable>EnvironmentId</variable>
+  <value type="QByteArray">{d5ee668d-9e87-4b3a-a850-e096afe86f4d}</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.ActiveTarget</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.EditorSettings</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="EditorConfiguration.AutoIndent">true</value>
+   <value type="bool" key="EditorConfiguration.AutoSpacesForTabs">false</value>
+   <value type="bool" key="EditorConfiguration.CamelCaseNavigation">true</value>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.0">
+    <value type="QString" key="language">Cpp</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">ROSProject.CppCodeStyle</value>
+    </valuemap>
+   </valuemap>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.1">
+    <value type="QString" key="language">QmlJS</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">QmlJSGlobal</value>
+    </valuemap>
+   </valuemap>
+   <value type="int" key="EditorConfiguration.CodeStyle.Count">2</value>
+   <value type="QByteArray" key="EditorConfiguration.Codec">UTF-8</value>
+   <value type="bool" key="EditorConfiguration.ConstrainTooltips">false</value>
+   <value type="int" key="EditorConfiguration.IndentSize">4</value>
+   <value type="bool" key="EditorConfiguration.KeyboardTooltips">false</value>
+   <value type="int" key="EditorConfiguration.MarginColumn">80</value>
+   <value type="bool" key="EditorConfiguration.MouseHiding">true</value>
+   <value type="bool" key="EditorConfiguration.MouseNavigation">true</value>
+   <value type="int" key="EditorConfiguration.PaddingMode">1</value>
+   <value type="bool" key="EditorConfiguration.ScrollWheelZooming">true</value>
+   <value type="bool" key="EditorConfiguration.ShowMargin">false</value>
+   <value type="int" key="EditorConfiguration.SmartBackspaceBehavior">0</value>
+   <value type="bool" key="EditorConfiguration.SmartSelectionChanging">true</value>
+   <value type="bool" key="EditorConfiguration.SpacesForTabs">true</value>
+   <value type="int" key="EditorConfiguration.TabKeyBehavior">0</value>
+   <value type="int" key="EditorConfiguration.TabSize">8</value>
+   <value type="bool" key="EditorConfiguration.UseGlobal">true</value>
+   <value type="int" key="EditorConfiguration.Utf8BomBehavior">1</value>
+   <value type="bool" key="EditorConfiguration.addFinalNewLine">true</value>
+   <value type="bool" key="EditorConfiguration.cleanIndentation">true</value>
+   <value type="bool" key="EditorConfiguration.cleanWhitespace">true</value>
+   <value type="bool" key="EditorConfiguration.inEntireDocument">false</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.PluginSettings</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="ClangCodeModel.CustomCommandLineKey"/>
+   <value type="bool" key="ClangCodeModel.UseGlobalConfig">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{2047162f-53ab-473a-90df-abb7b7147f7b}</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory"></value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">CatkinTools Step</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSCatkinToolsStep</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.ActiveProfile">default</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsWorkingDir">%{CurrentProject:Path}</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.MakeArguments"></value>
+      <value type="int" key="ROSProjectManager.ROSCatkinToolsStep.Target">0</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">CatkinTools Step</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSCatkinToolsStep</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.ActiveProfile">default</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsWorkingDir">%{CurrentProject:Path}</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.MakeArguments"></value>
+      <value type="int" key="ROSProjectManager.ROSCatkinToolsStep.Target">1</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges">
+     <value type="QString">CMAKE_PREFIX_PATH=/home/jiwoo/catkinmake_ws/devel:/home/jiwoo/catkin_ws/devel/.private/catkin_tools_prebuild:/home/jiwoo/catkin_ws/devel:/opt/ros/melodic</value>
+     <value type="QString">LD_LIBRARY_PATH=/home/jiwoo/catkinmake_ws/devel/lib:/home/jiwoo/catkin_ws/devel/.private/catkin_tools_prebuild/lib:/home/jiwoo/catkin_ws/devel/lib:/opt/ros/melodic/lib</value>
+     <value type="QString">PATH=/opt/ros/melodic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin</value>
+     <value type="QString">PKG_CONFIG_PATH=/home/jiwoo/catkinmake_ws/devel/lib/pkgconfig:/home/jiwoo/catkin_ws/devel/.private/catkin_tools_prebuild/lib/pkgconfig:/home/jiwoo/catkin_ws/devel/lib/pkgconfig:/opt/ros/melodic/lib/pkgconfig</value>
+     <value type="QString">PWD=/home/jiwoo/catkin_ws</value>
+     <value type="QString">PYTHONPATH=/home/jiwoo/catkin_ws/devel/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages</value>
+     <value type="QString">ROSLISP_PACKAGE_DIRECTORIES=/home/jiwoo/catkin_ws/devel/share/common-lisp</value>
+     <value type="QString">ROS_DISTRO=melodic</value>
+     <value type="QString">ROS_ETC_DIR=/opt/ros/melodic/etc/ros</value>
+     <value type="QString">ROS_MASTER_URI=http://localhost:11311</value>
+     <value type="QString">ROS_PACKAGE_PATH=/home/jiwoo/catkinmake_ws/src:/home/jiwoo/catkin_ws/build/catkin_tools_prebuild:/home/jiwoo/catkin_ws/src/KUDOS_12_test:/home/jiwoo/catkin_ws/src/beginner_tutorials:/home/jiwoo/catkin_ws/src/yolov4-for-darknet_ros/darknet_ros/darknet_ros_msgs:/home/jiwoo/catkin_ws/src/yolov4-for-darknet_ros/darknet_ros/darknet_ros:/home/jiwoo/catkin_ws/src/DynamixelSDK/ros/dynamixel_sdk:/home/jiwoo/catkin_ws/src/dy:/home/jiwoo/catkin_ws/src/dynamixel12:/home/jiwoo/catkin_ws/src/DynamixelSDK/ros/dynamixel_sdk_examples:/home/jiwoo/catkin_ws/src/ex:/home/jiwoo/catkin_ws/src/jetson_camera:/home/jiwoo/catkin_ws/src/joystick:/home/jiwoo/catkin_ws/src/kubot_pkgs:/home/jiwoo/catkin_ws/src/omo_r1mini/omo_r1mini:/home/jiwoo/catkin_ws/src/omo_r1mini/omo_r1mini_ar_marker:/home/jiwoo/catkin_ws/src/omo_r1mini/omo_r1mini_cartographer:/home/jiwoo/catkin_ws/src/omo_r1mini/omo_r1mini_description:/home/jiwoo/catkin_ws/src/omo_r1mini/omo_r1mini_gazebo:/home/jiwoo/catkin_ws/src/omo_r1mini/omo_r1mini_navigation:/home/jiwoo/catkin_ws/src/omo_r1mini/omo_r1mini_navigation2:/home/jiwoo/catkin_ws/src/omo_r1mini/omo_r1mini_simple_position_controller:/home/jiwoo/catkin_ws/src/omo_r1mini/omo_r1mini_slam:/home/jiwoo/catkin_ws/src/omo_r1mini/omo_r1mini_teleop:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-msgs/op3_action_module_msgs:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Demo/op3_ball_detector:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Demo/op3_bringup:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Tools/op3_camera_setting_tool:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Common/op3_description:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Common/op3_gazebo:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Tools/op3_navigation:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-msgs/op3_offset_tuner_msgs:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Tools/op3_offset_tuner_client:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-msgs/op3_online_walking_module_msgs:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-msgs/op3_tuning_module_msgs:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Tools/op3_tuner_client:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-msgs/op3_walking_module_msgs:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Tools/op3_web_setting_tool:/home/jiwoo/catkin_ws/src/ROBOTIS-Framework-msgs/robotis_controller_msgs:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Tools/op3_gui_demo:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Demo/op3_read_write_demo:/home/jiwoo/catkin_ws/src/ROBOTIS-Framework/robotis_device:/home/jiwoo/catkin_ws/src/ROBOTIS-Framework/robotis_framework:/home/jiwoo/catkin_ws/src/ROBOTIS-Framework/robotis_framework_common:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3/op3_action_module:/home/jiwoo/catkin_ws/src/ROBOTIS-Framework/robotis_controller:/home/jiwoo/catkin_ws/src/ROBOTIS-Math/robotis_math:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3/op3_balance_control:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3/op3_head_control_module:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3/op3_kinematics_dynamics:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3/op3_base_module:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Tools/op3_action_editor:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3/op3_direct_control_module:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3/op3_localization:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Tools/op3_offset_tuner_server:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3/op3_online_walking_module:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3/op3_tuning_module:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3/op3_walking_module:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3/open_cr_module:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3/op3_manager:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3/robotis_op3:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Common/robotis_op3_common:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Demo/robotis_op3_demo:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-msgs/robotis_op3_msgs:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Tools/robotis_op3_tools:/home/jiwoo/catkin_ws/src/ROBOTIS-Utility/robotis_utility:/home/jiwoo/catkin_ws/src/ROBOTIS-Utility/ros_madplay_player:/home/jiwoo/catkin_ws/src/ROBOTIS-Utility/ros_mpg321_player:/home/jiwoo/catkin_ws/src/sync:/home/jiwoo/catkin_ws/src/teleop_twist_joy:/home/jiwoo/catkin_ws/src/test_thread:/home/jiwoo/catkin_ws/src/tu:/home/jiwoo/catkin_ws/src/turtlebot3/turtlebot3:/home/jiwoo/catkin_ws/src/turtlebot3/turtlebot3_description:/home/jiwoo/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo:/home/jiwoo/catkin_ws/src/turtlebot3_msgs:/home/jiwoo/catkin_ws/src/turtlebot3/turtlebot3_bringup:/home/jiwoo/catkin_ws/src/turtlebot3/turtlebot3_example:/home/jiwoo/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake:/home/jiwoo/catkin_ws/src/turtlebot3/turtlebot3_navigation:/home/jiwoo/catkin_ws/src/turtlebot3_simulations/turtlebot3_simulations:/home/jiwoo/catkin_ws/src/turtlebot3/turtlebot3_slam:/home/jiwoo/catkin_ws/src/turtlebot3/turtlebot3_teleop:/home/jiwoo/catkin_ws/src/usb_cam:/home/jiwoo/catkin_ws/src/omo_r1mini/omo_r1mini_bringup:/home/jiwoo/catkin_ws/src/ROBOTIS-OP3-Demo/op3_demo:/home/jiwoo/catkin_ws/src/week2_hw:/home/jiwoo/catkin_ws/src/week2hw:/home/jiwoo/catkin_ws/src/week2star:/opt/ros/melodic/share</value>
+     <value type="QString">ROS_PYTHON_VERSION=2</value>
+     <value type="QString">ROS_ROOT=/opt/ros/melodic/share/ros</value>
+     <value type="QString">ROS_VERSION=1</value>
+     <value type="QString">SHLVL=208</value>
+     <value type="QString">TERM=xterm</value>
+     <value type="QString">_=/usr/bin/env</value>
+    </valuelist>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Debug</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Debug</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSBuildConfiguration</value>
+    <value type="int" key="ROSProjectManager.ROSBuildConfiguration.BuildSystem">1</value>
+    <value type="int" key="ROSProjectManager.ROSBuildConfiguration.CMakeBuildType">0</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory"></value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">CatkinTools Step</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSCatkinToolsStep</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.ActiveProfile">default</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsWorkingDir">%{CurrentProject:Path}</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.MakeArguments"></value>
+      <value type="int" key="ROSProjectManager.ROSCatkinToolsStep.Target">0</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">CatkinTools Step</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSCatkinToolsStep</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.ActiveProfile">default</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsWorkingDir">%{CurrentProject:Path}</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.MakeArguments"></value>
+      <value type="int" key="ROSProjectManager.ROSCatkinToolsStep.Target">1</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Release</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Release</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSBuildConfiguration</value>
+    <value type="int" key="ROSProjectManager.ROSBuildConfiguration.BuildSystem">1</value>
+    <value type="int" key="ROSProjectManager.ROSBuildConfiguration.CMakeBuildType">1</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.2">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory"></value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">CatkinTools Step</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSCatkinToolsStep</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.ActiveProfile">default</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsWorkingDir">%{CurrentProject:Path}</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.MakeArguments"></value>
+      <value type="int" key="ROSProjectManager.ROSCatkinToolsStep.Target">0</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">CatkinTools Step</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSCatkinToolsStep</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.ActiveProfile">default</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsWorkingDir">%{CurrentProject:Path}</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.MakeArguments"></value>
+      <value type="int" key="ROSProjectManager.ROSCatkinToolsStep.Target">1</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Release with Debug Information</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Release with Debug Information</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSBuildConfiguration</value>
+    <value type="int" key="ROSProjectManager.ROSBuildConfiguration.BuildSystem">1</value>
+    <value type="int" key="ROSProjectManager.ROSBuildConfiguration.CMakeBuildType">2</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.3">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory"></value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">CatkinTools Step</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSCatkinToolsStep</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.ActiveProfile">default</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsWorkingDir">%{CurrentProject:Path}</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.MakeArguments"></value>
+      <value type="int" key="ROSProjectManager.ROSCatkinToolsStep.Target">0</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">CatkinTools Step</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSCatkinToolsStep</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.ActiveProfile">default</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsWorkingDir">%{CurrentProject:Path}</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.MakeArguments"></value>
+      <value type="int" key="ROSProjectManager.ROSCatkinToolsStep.Target">1</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Minimum Size Release</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Minimum Size Release</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSBuildConfiguration</value>
+    <value type="int" key="ROSProjectManager.ROSBuildConfiguration.BuildSystem">1</value>
+    <value type="int" key="ROSProjectManager.ROSBuildConfiguration.CMakeBuildType">3</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.4">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory"></value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">CatkinTools Step</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSCatkinToolsStep</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.ActiveProfile">default</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsWorkingDir">%{CurrentProject:Path}</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.MakeArguments"></value>
+      <value type="int" key="ROSProjectManager.ROSCatkinToolsStep.Target">0</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">CatkinTools Step</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSCatkinToolsStep</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.ActiveProfile">default</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinMakeArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsArguments"></value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.CatkinToolsWorkingDir">%{CurrentProject:Path}</value>
+      <value type="QString" key="ROSProjectManager.ROSCatkinToolsStep.MakeArguments"></value>
+      <value type="int" key="ROSProjectManager.ROSCatkinToolsStep.Target">1</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">User Defined</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">User Defined</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ROSProjectManager.ROSBuildConfiguration</value>
+    <value type="int" key="ROSProjectManager.ROSBuildConfiguration.BuildSystem">1</value>
+    <value type="int" key="ROSProjectManager.ROSBuildConfiguration.CMakeBuildType">4</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">5</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.DeployConfiguration.0">
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">0</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Deploy</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Deploy</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">1</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Deploy Configuration</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.DefaultDeployConfiguration</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">1</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.PluginSettings"/>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.0">
+    <value type="QString" key="Analyzer.Perf.CallgraphMode">dwarf</value>
+    <valuelist type="QVariantList" key="Analyzer.Perf.Events">
+     <value type="QString">cpu-cycles</value>
+    </valuelist>
+    <valuelist type="QVariantList" key="Analyzer.Perf.ExtraArguments"/>
+    <value type="int" key="Analyzer.Perf.Frequency">250</value>
+    <value type="QString" key="Analyzer.Perf.SampleMode">-F</value>
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="int" key="Analyzer.Perf.StackSize">4096</value>
+    <value type="bool" key="Analyzer.QmlProfiler.AggregateTraces">false</value>
+    <value type="bool" key="Analyzer.QmlProfiler.FlushEnabled">false</value>
+    <value type="uint" key="Analyzer.QmlProfiler.FlushInterval">1000</value>
+    <value type="QString" key="Analyzer.QmlProfiler.LastTraceFile"></value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="Analyzer.Valgrind.AddedSuppressionFiles"/>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.CollectBusEvents">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.CollectSystime">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableBranchSim">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableCacheSim">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableEventToolTips">true</value>
+    <value type="double" key="Analyzer.Valgrind.Callgrind.MinimumCostRatio">0.01</value>
+    <value type="double" key="Analyzer.Valgrind.Callgrind.VisualisationMinimumCostRatio">10</value>
+    <value type="bool" key="Analyzer.Valgrind.FilterExternalIssues">true</value>
+    <value type="QString" key="Analyzer.Valgrind.KCachegrindExecutable">kcachegrind</value>
+    <value type="int" key="Analyzer.Valgrind.LeakCheckOnFinish">1</value>
+    <value type="int" key="Analyzer.Valgrind.NumCallers">25</value>
+    <valuelist type="QVariantList" key="Analyzer.Valgrind.RemovedSuppressionFiles"/>
+    <value type="int" key="Analyzer.Valgrind.SelfModifyingCodeDetection">1</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.ShowReachable">false</value>
+    <value type="bool" key="Analyzer.Valgrind.TrackOrigins">true</value>
+    <value type="QString" key="Analyzer.Valgrind.ValgrindExecutable">valgrind</value>
+    <valuelist type="QVariantList" key="Analyzer.Valgrind.VisibleErrorKinds">
+     <value type="int">0</value>
+     <value type="int">1</value>
+     <value type="int">2</value>
+     <value type="int">3</value>
+     <value type="int">4</value>
+     <value type="int">5</value>
+     <value type="int">6</value>
+     <value type="int">7</value>
+     <value type="int">8</value>
+     <value type="int">9</value>
+     <value type="int">10</value>
+     <value type="int">11</value>
+     <value type="int">12</value>
+     <value type="int">13</value>
+     <value type="int">14</value>
+    </valuelist>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.CustomExecutableRunConfiguration.Executable"></value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Custom Executable</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.CustomExecutableRunConfiguration</value>
+    <value type="QString" key="RunConfiguration.Arguments"></value>
+    <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseMultiProcess">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default"></value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.TargetCount</variable>
+  <value type="int">1</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Updater.FileVersion</variable>
+  <value type="int">21</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">21</value>
+ </data>
+</qtcreator>

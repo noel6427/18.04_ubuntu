@@ -1,0 +1,35 @@
+Not searching for unused variables given on the command line.
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/jiwoo/catkin_ws/devel/.private/launchgui
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/jiwoo/catkinmake_ws/devel;/home/jiwoo/catkin_ws/devel/.private/catkin_tools_prebuild;/home/jiwoo/catkin_ws/devel;/opt/ros/melodic
+[36m--[0m This workspace overlays: /home/jiwoo/catkinmake_ws/devel;/home/jiwoo/catkin_ws/devel/.private/catkin_tools_prebuild;/home/jiwoo/catkin_ws/devel;/opt/ros/melodic
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python2
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/jiwoo/catkin_ws/build/launchgui/test_results
+[36m--[0m Found gtest sources under '/usr/src/googletest': gtests will be built
+[36m--[0m Found gmock sources under '/usr/src/googletest': gmock will be built
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found version "2.7.17")
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.29
+[36m--[0m BUILD_SHARED_LIBS is on
+[33m[1mCMake Warning[0m at /usr/share/cmake-3.10/Modules/FindQt4.cmake:620 (message):
+  /usr/bin/qmake-qt4 reported QT_INSTALL_LIBS as "/usr/lib/x86_64-linux-gnu"
+  but QtCore could not be found there.  Qt is NOT installed correctly for the
+  target build environment.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/melodic/share/qt_build/cmake/qt-ros.cmake:65 (find_package)
+  CMakeLists.txt:26 (rosbuild_prepare_qt4)
+
+
+Qt QTGUI library not found.
+Qt QTCORE library not found.
+[31m[1mCMake Error[0m at /home/jiwoo/catkin_ws/src/launchgui/CMakeLists.txt:36 (QT4_ADD_RESOURCES):
+  Unknown CMake command "QT4_ADD_RESOURCES".
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/jiwoo/catkin_ws/build/launchgui/CMakeFiles/CMakeOutput.log".
+See also "/home/jiwoo/catkin_ws/build/launchgui/CMakeFiles/CMakeError.log".

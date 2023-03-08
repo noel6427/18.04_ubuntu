@@ -1,0 +1,8 @@
+prefix=/home/jiwoo/catkin_ws/devel/.private/jetson_camera
+
+Name: jetson_camera
+Description: Description of jetson_camera
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

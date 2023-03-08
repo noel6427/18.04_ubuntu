@@ -1,0 +1,1 @@
+/home/jiwoo/catkin_ws/devel/.private/KUDOS_12_test/share/KUDOS_12_test/cmake/KUDOS_12_testConfig.cmake

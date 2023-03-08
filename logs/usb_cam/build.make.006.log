@@ -1,0 +1,35 @@
+[35m[1mScanning dependencies of target usb_cam[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/usb_cam.dir/src/usb_cam.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so[0m
+[ 50%] Built target usb_cam
+[35m[1mScanning dependencies of target usb_cam_node[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/usb_cam_node.dir/nodes/usb_cam_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/usb_cam/usb_cam_node[0m
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `av_packet_from_data'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `sws_scale'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `av_frame_alloc'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `avcodec_close'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `av_frame_get_buffer'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `av_new_packet'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `avcodec_alloc_context3'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `av_log_set_level'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `avcodec_free_context'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `av_free'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `avcodec_open2'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `avcodec_send_packet'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `sws_getContext'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `av_image_get_buffer_size'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `av_parser_close'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `av_parser_init'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `avcodec_register_all'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `sws_freeContext'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `avcodec_receive_frame'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `av_image_copy_to_buffer'
+/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/libusb_cam.so: undefined reference to `avcodec_find_decoder'
+collect2: error: ld returned 1 exit status
+CMakeFiles/usb_cam_node.dir/build.make:170: recipe for target '/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/usb_cam/usb_cam_node' failed
+make[2]: *** [/home/jiwoo/catkin_ws/devel/.private/usb_cam/lib/usb_cam/usb_cam_node] Error 1
+CMakeFiles/Makefile2:1091: recipe for target 'CMakeFiles/usb_cam_node.dir/all' failed
+make[1]: *** [CMakeFiles/usb_cam_node.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

@@ -1,0 +1,1 @@
+/home/jiwoo/catkin_ws/devel/.private/KUDOS_12_test/lib/pkgconfig/KUDOS_12_test.pc

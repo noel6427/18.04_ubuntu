@@ -1,0 +1,8 @@
+prefix=/home/jiwoo/catkin_ws/install
+
+Name: ex
+Description: Description of ex
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lex
+Requires: geometry_msgs roscpp rospy

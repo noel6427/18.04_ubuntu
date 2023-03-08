@@ -1,0 +1,5 @@
+Symlinking /home/jiwoo/catkin_ws/devel/lib/libjetson_camera_nodelet.so
+Symlinking /home/jiwoo/catkin_ws/devel/lib/pkgconfig/jetson_camera.pc
+Symlinking /home/jiwoo/catkin_ws/devel/lib/jetson_camera/jetson_camera_node
+Symlinking /home/jiwoo/catkin_ws/devel/share/jetson_camera/cmake/jetson_cameraConfig-version.cmake
+Symlinking /home/jiwoo/catkin_ws/devel/share/jetson_camera/cmake/jetson_cameraConfig.cmake

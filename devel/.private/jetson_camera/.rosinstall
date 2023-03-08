@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jiwoo/catkin_ws/devel/.private/jetson_camera/setup.sh
